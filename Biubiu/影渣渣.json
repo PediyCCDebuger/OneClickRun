@@ -12,8 +12,8 @@
   "jiequqian": "空",
   "jiequhou": "空",
   "jiequshuzuqian": "class=\"module-item-pic",
-  "jiequshuzuhou": "class=\"module-item\"",
-  "tupianqian": "data-src=\"",
+  "jiequshuzuhou": "class=\"module-item-content",
+  "tupianqian": "data-original=\"",
   "tupianhou": "\"",
   "biaotiqian": "title=\"",
   "biaotihou": "\"",
@@ -21,7 +21,7 @@
   "lianjiehou": "\"",
 
   //新版Biubiu参数：副标题 (不需要的话，就不填写或者删除副标题2个字段也可以。)
-  "fubiaotiqian": "item-text\">",
+  "fubiaotiqian": "class=\"module-item-douban\">",
   "fubiaotihou": "</div",
 
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
@@ -46,8 +46,8 @@
   "bfshifouercijiequ": "0",
   "bfjiequqian": "空",
   "bfjiequhou": "空",
-  "bfjiequshuzuqian": "id=\"sort-item",
-  "bfjiequshuzuhou": "</div>",
+  "bfjiequshuzuqian": "class=\"module-play-list-content",
+  "bfjiequshuzuhou": "</a></div>",
 
   "zhuangtaiqian": "上映：</span>",
   "zhuangtaihou": "</div>",
@@ -55,8 +55,8 @@
   "daoyanhou": "</div>",
   "zhuyanqian": "主演：</span>",
   "zhuyanhou": "</div>",
-  "juqingqian": "vod_content\">",
-  "juqinghou": "</span",
+  "juqingqian": "class=\"module-info-introduction-content\"><span>",
+  "juqinghou": "</span>",
 
   "bfyshifouercijiequ": "0",
   "bfyjiequqian": "空",
